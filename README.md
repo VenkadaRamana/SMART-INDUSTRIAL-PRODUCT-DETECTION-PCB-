@@ -25,6 +25,11 @@ Operates using only 3 physical buttons:
 Scrap Button – for rejecting / marking defective count
 Reset Button – to reset product count
 Config Mode Button – to enter configuration setting
+
+**** COMPONENTS EVERYTHING WILL BE SENT IN PACKAGE WITH DEMONTRATION VIDEO HOW TO CONNECT AND COLLECT DATA. 
+
+WHATSAPP NUMBER : +9193344558594
+MESSAGE ME FOR PRICE.
 <img width="1724" height="930" alt="PCb_image1" src="https://github.com/user-attachments/assets/26d08f36-6a64-4d26-92af-916967c48e85" />
 <img width="1200" height="1600" alt="WhatsApp Image 2026-04-08 at 12 18 31 AM" src="https://github.com/user-attachments/assets/0bc9cd86-583c-438c-adda-d8ec878eab78" />
 <img width="727" height="834" alt="Screenshot 2026-03-24 172748" src="https://github.com/user-attachments/assets/7252d0a7-e13f-4f56-8f37-84383305c6d9" />
